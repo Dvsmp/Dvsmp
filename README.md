@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wick
 - 👀 I’m interested in Kubernetes, Git, Docker, Linux, DevOps
-- 🌱 I’m currently learning Git, Kubernetes, Docker
+- 🌱 I’m currently mastering Git, Kubernetes, Docker
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me -  Dvsmp88@gmail.com
 
